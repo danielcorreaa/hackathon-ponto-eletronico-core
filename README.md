@@ -1,1 +1,0 @@
-# hackathon-ponto-eletronico-core
